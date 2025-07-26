@@ -1,0 +1,50 @@
+# Crowdfunding Campaign Analysis Dashboard
+
+This project explores over **370,000 crowdfunding campaign records** to identify key patterns that influence project success.
+It focuses on trends related to **funding goals**, **campaign categories**, **launch dates**, **geographic locations**, and **staff picks**.
+
+## 📌 Project Objective
+
+To analyze and visualize success metrics across crowdfunding projects and answer key questions:
+- Which factors correlate with higher success rates?
+- How do location, goal size, and category affect outcomes?
+- What time periods show peaks or declines in performance?
+
+---
+
+## 🧰 Tools & Technologies
+
+- **SQL** – Data extraction, cleaning, and transformation  
+- **Excel** – Data exploration, validation, and preprocessing  
+- **Power BI** – Preliminary modeling and metrics testing  
+- **Tableau** – Final dashboard development and data storytelling
+
+---
+
+## 📊 Key Features of the Dashboard
+
+- **Success Rate Analysis**  
+  View success % by funding goal range, launch year, and location
+
+- **Category & Region Trends**  
+  Discover top-performing categories, cities, and countries
+
+- **Top Projects Insight**  
+  Spot most-backed and highest-funded campaigns
+
+- **Staff Pick Impact**  
+  Compare success rates of staff-picked vs non-staff-picked projects
+
+---
+
+## 🔍 Core Insights
+
+- Projects with goals under **$125,000** had the highest success rate (**~39.3%**)  
+- Projects seeking over **$1 million** had a success rate of just **1%**  
+- **Staff-picked** campaigns had a **74%** success rate, nearly **2.4x** higher than others  
+- Success rates peaked in **2011 and 2018**, and dipped during **2014–2015**  
+- Categories like **Chiptune**, **Residencies**, and **Anthologies** outperformed others  
+- **Product Design** and **Tabletop Games** led in total successful project count  
+- US-based campaigns dominated the platform with over **105K** successful projects
+
+
